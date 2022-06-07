@@ -1,3 +1,12 @@
+<div align="center">
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=𝗛𝗘𝗬+𝗜𝗧𝗦+𝗠𝗘+𝗔𝗟𝗢𝗡𝗘;𝗬𝗘𝗧𝗛𝗔𝗗𝗔+𝗙𝗘𝗔𝗥+𝗔𝗬𝗢;━━━◇x◇━━━━+⇆+◁+𝗔𝗟𝗢𝗡𝗘+▷+↻)](https://git.io/typing-svg)
+
+ </a>
+</p>
+<div align="center">
+  <img border-radius: 15px src="https://i.imgur.com/k05oyeF.jpg" width="300" height="300"/>
+  <p align="center">
 - 👋 Hi, I’m @Alone-Mods
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
