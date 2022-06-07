@@ -29,4 +29,11 @@ You can click the Preview link to take a look at your changes.
   <img border-radius: 15px src="https://telegra.ph/file/4f000cf80f3a717e5c68f.jpg" width="150" height="150"/>
   <p align="center">
 
-𝗦𝗰𝗮𝗻 𝗧𝗵𝗶𝘀 ❤
+𝗦𝗰𝗮𝗻 𝗧𝗵𝗶𝘀 ❤ 𝗚𝗶𝘁𝗵𝘂𝗯
+
+</p>
+<div align="center">
+  <img border-radius: 15px src="https://telegra.ph/file/19f469cc9f72234eebf23.jpg" width="150" height="150"/>
+  <p align="center">
+
+𝗦𝗰𝗮𝗻 𝗧𝗵𝗶𝘀 💎 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽
