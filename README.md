@@ -5,13 +5,8 @@
  </a>
 </p>
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/k05oyeF.jpg" width="300" height="300"/>
+  <img border-radius: 15px src="https://i.imgur.com/sxUfra1.jpg" width="150" height="150"/>
   <p align="center">
-- 👋 Hi, I’m @Alone-Mods
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Alone-Mods/Alone-Mods is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
